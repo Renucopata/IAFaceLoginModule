@@ -1,0 +1,6 @@
+tk
+opencv-python
+tensorflow
+mtcnn
+matplotlib
+mysql-connector-python
